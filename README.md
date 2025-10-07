@@ -33,6 +33,6 @@ It’s a place where I share what I’ve built and demonstrate my skills in prog
 
 ---
 
-📄 License
+## 📄 License
 
 MIT License © 2025 Mirco Negri
