@@ -28,7 +28,7 @@ It’s a place where I share what I’ve built and demonstrate my skills in prog
 
 - 🤖 [LaundryBot](https://github.com/mirconegri/LaundryBot) – Telegram bot to manage laundry bookings
 - 🎬 [MovieRecommender](https://github.com/mirconegri/MovieRecommender) - A modern movie recommender app using TMDb API — built with Python and Tkinter
-- 🧮 [Calculator App](https://github.com/mirconegri/calculator) – Python app to generate a scout camp menu and shopping list for active teenagers (16-18 years old)
+- 🧮 [ScoutMealPlanner](https://github.com/mirconegri/ScoutMealPlanner) – Python app to generate a scout camp menu and shopping list for active teenagers (16-18 years old)
 - 🌦️ [Weather Dashboard](https://github.com/mirconegri/weather-dashboard) – Fetches live weather data  
 - 🔜 More projects will be added as I keep experimenting and learning new technologies!
 
