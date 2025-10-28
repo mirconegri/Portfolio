@@ -15,14 +15,6 @@ It’s a place where I share what I’ve built and demonstrate my skills in prog
 
 ---
 
-## 🛠️ Technologies
-
-- **Frontend:** HTML5 🌐, CSS3 🎨, JavaScript ⚡  
-- **Backend/Automation:** Python 🐍  
-- **Version control:** Git & GitHub 🏷️  
-
----
-
 ## 📂 Projects
 
 - 🤖 [LaundryBot](https://github.com/mirconegri/LaundryBot) – Telegram bot to manage laundry bookings
