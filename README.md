@@ -20,7 +20,6 @@ It’s a place where I share what I’ve built and demonstrate my skills in prog
 - **Frontend:** HTML5 🌐, CSS3 🎨, JavaScript ⚡  
 - **Backend/Automation:** Python 🐍  
 - **Version control:** Git & GitHub 🏷️  
-- Optional: Flask / Django ⚙️
 
 ---
 
