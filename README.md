@@ -15,3 +15,9 @@ It’s a place where I share what I’ve built and demonstrate my skills in prog
 
 ---
 
+## 👤 Author
+
+`Mirco Negri`
+GitHub: https://github.com/mirconegri
+
+
