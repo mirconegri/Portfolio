@@ -5,16 +5,6 @@ It’s a place where I share what I’ve built and demonstrate my skills in prog
 
 ---
 
-## ✨ Features
-
-- 🖥️ Showcases my personal web projects and coding experiments  
-- 📱 Interactive and responsive design  
-- 📂 Projects categorized by programming language or framework  
-- 🔗 Links to GitHub repositories of individual projects  
-- 🧭 Easy to navigate and explore
-
----
-
 ## 📂 Projects
 
 - 🤖 [LaundryBot](https://github.com/mirconegri/LaundryBot) – Telegram bot to manage laundry bookings
