@@ -15,6 +15,13 @@ It’s a place where I share what I’ve built and demonstrate my skills in prog
 
 ---
 
+## 📜 License
+
+MIT License © 2025 Mirco Negri
+— see [LICENSE](LICENSE) file for details.
+
+---
+
 ## 👤 Author
 
 `Mirco Negri`
